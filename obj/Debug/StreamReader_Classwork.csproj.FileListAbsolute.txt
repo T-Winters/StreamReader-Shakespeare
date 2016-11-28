@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReader_Classwork\StreamReader_Classwork\bin\Debug\StreamReader_Classwork.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReader_Classwork\StreamReader_Classwork\bin\Debug\StreamReader_Classwork.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReader_Classwork\StreamReader_Classwork\bin\Debug\StreamReader_Classwork.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReader_Classwork\StreamReader_Classwork\obj\Debug\StreamReader_Classwork.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReader_Classwork\StreamReader_Classwork\obj\Debug\StreamReader_Classwork.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReader_Classwork\StreamReader_Classwork\obj\Debug\StreamReader_Classwork.pdb
